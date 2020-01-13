@@ -1,0 +1,153 @@
+*{
+    font-family: 'Gayathri', sans-serif;
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    color:white;
+    font-size: 1.1rem;
+    text-decoration: none;
+}
+a:hover{
+    color: rgba(238, 224, 224, 0.418);
+}
+.main-a{
+    font-size: 1.5rem;
+}
+h1{
+    font-size: 4rem;
+}
+p{
+    font-size: 1.2rem;
+}
+btn1{
+    color: white;
+    word-spacing: normal;
+}
+.second{
+    text-align: center;
+
+}
+.second a{
+    border-radius: 20px;
+    border: 2px solid white;
+    text-decoration: none;
+    padding-left: 20px;
+    padding-top: 15px;
+    padding-right: 20px;
+    padding-bottom: 15px;
+    font-size: 1.9 rem;
+    font-weight: bold;
+
+
+
+}
+.second a:hover{
+    background-color: rgba(197, 158, 158, 0.26);
+    color: white;
+}
+    
+
+
+.maindiv{
+    
+    background-image: linear-gradient(rgba(48, 37, 32, 0.089), rgba(26, 22, 21, 0.233)),url("train.jpg");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    }
+.second h1{
+    text-align: center;
+    text-shadow: 2px 2px 3px bisque;
+    padding-top: 14% ;
+    color: white;
+    text-transform: capitalize;
+}
+.second p{
+    text-align: center;
+    color: white;
+    text-transform: capitalize;
+}
+.section-two{
+    background-color: rgb(41, 145, 86);
+    text-align: center;
+    height: 100%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    color: white;
+}
+.border1{
+    border: 1px solid white;
+    border-radius: 50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%
+    width:100px;
+    hight:100px;
+    
+
+    
+}
+.section-three{
+    height: 100vh;
+    text-align: center;
+    margin-top: 40px;
+    color:rgba(51, 45, 45, 0.767);
+}
+img{ 
+    border-radius: 4px;
+    height: 35%;
+    width: 100%;
+}
+.section-three h1{
+    font-size: 1.9rem;
+}
+.section-three h3{
+
+    font-size: 1.3rem;
+}
+.section-three a{
+    border-radius: 7px;
+    border: 2px solid black;
+    text-decoration: none;
+    padding-left: 20px;
+    padding-top: 15px;
+    padding-right: 20px;
+    padding-bottom: 15px;
+    font-size: 1.9 rem;
+    font-weight: bold;
+    color: rgba(61, 54, 54, 0.658);
+
+
+}
+.section-three a:hover{
+    background-color: rgba(184, 157, 157, 0.308);
+}
+.lastdiv{
+    width: 100%;
+    background-color: rgba(8, 8, 8, 0.856);
+    color: white;
+}
+.row1{
+    margin-left: 10%;
+}
+.row3{
+    padding-top: 18px;
+}
+.row3 a{
+    border: 0px solid rgba(24, 22, 22, 0.856);
+    color: white;
+    font-weight: normal;
+}
+hr{
+    color: white;
+    ;
+}
+i{
+    word-spacing: 20px;
+}
+ul:hover{
+    color: white;
+}
